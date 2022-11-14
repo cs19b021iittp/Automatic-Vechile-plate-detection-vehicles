@@ -1,1 +1,1 @@
-# Automatic-Vehicle-plate-detection-vehicles
+# Automatic-Vehicle-plate-detection
