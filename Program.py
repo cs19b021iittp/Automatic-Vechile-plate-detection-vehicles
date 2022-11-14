@@ -181,6 +181,7 @@ result = binarySearch(array,0,len(array)-1,res2)
 if result != -1: 
 	print ("\n\nThe Vehicle is allowed to visit." ) 
 else: 
+	
     print ("\n\nThe Vehicle is  not allowed to visit.")
         
 
